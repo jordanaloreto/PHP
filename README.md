@@ -65,6 +65,7 @@ beecrowd-php/
 ├── media_ponderada.php
 ├── salario_bonus.php
 └── ...
+
 🚀 Executando os códigos
 
 Para rodar os exemplos localmente é necessário ter PHP instalado.
@@ -76,6 +77,7 @@ php nome_do_arquivo.php
 Exemplo:
 
 php soma_simples.php
+
 📚 Sobre a Plataforma
 
 A Beecrowd é uma plataforma de desafios de programação utilizada para treinar lógica, algoritmos e estruturas de dados através de problemas com diferentes níveis de dificuldade.
